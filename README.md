@@ -7,8 +7,7 @@ Using poloniex api python library from https://github.com/Aula13/poloniex
 
 To install dependencies use python pip command
 
-pip install -r requiremenets.txt
-
+pip install -r requirements.txt
 
 # Usage
 
