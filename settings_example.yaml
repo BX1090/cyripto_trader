@@ -1,7 +1,7 @@
 # rename this file to settings.yaml and enter the api keys for poloniex
 polo_api:
-  key: super_rich_acounts_api_key
-  secret: super_secret_top_secret
+  key: R2ECOFGH-Q37RQGEK-BBQQOF5L-DXME126J
+  secret: 64dda88cf14f4c3ba016049aab64158104e5ba3b9e748a27e4c812c8e09323468badadd970923895d81c4cd636ed097e7be23b893aac53b2c0f9c08f28b1112a
 
 
 # set my coin data
